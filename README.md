@@ -1,1 +1,4 @@
-# covide19-dataanalysis
+# covide19-data analysis
+plotly
+pandas
+visulationstools
